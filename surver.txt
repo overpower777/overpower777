@@ -1,0 +1,5 @@
+{
+	"ip":"shubhamoverpower777.aternos.me",
+	"port": "43247",
+	"name": "afkbot"
+}
